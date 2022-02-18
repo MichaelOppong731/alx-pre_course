@@ -1,2 +1,2 @@
-Hello everyone.This is Michael Oppong a student of AlX now
+Hello there!I love ALX!!!
 
